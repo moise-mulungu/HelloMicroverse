@@ -4,7 +4,7 @@
 
 > This is my first project as a Micronaut.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./appScreenshot.png)
 
 I use this project to learn about Linters and Github Workflows.
 
