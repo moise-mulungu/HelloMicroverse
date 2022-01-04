@@ -12,7 +12,7 @@ I use this project to learn about Linters and Github Workflows.
 
 - HTML
 - CSS
-- VSCode
+- Visual Studio Code
 
 
 
