@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This is my first project as a Micronaut.
+> This is my first project called Hello Microverse as a Micronaut.
 
 ![screenshot](./appScreenshot.png)
 
