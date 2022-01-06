@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This is my first project as a Micronaut.
+> This is my first project called Hello Microverse as a Micronaut.
 
 ![screenshot](./appScreenshot.png)
 
@@ -12,7 +12,7 @@ I use this project to learn about Linters and Github Workflows.
 
 - HTML
 - CSS
-- VSCode
+- Visual Studio Code
 
 
 
