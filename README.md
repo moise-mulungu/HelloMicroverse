@@ -6,7 +6,7 @@
 
 ![screenshot](./appScreenshot.png)
 
-I use this project to learn about Linters and Github Workflows.
+I use this introductory project to learn about Linters and Github Workflows.
 
 ## Built With
 
